@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 713598384
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: player.unity3d
+      Dependencies:
+        Dependency_0: wallpaper.unity3d
+    Info_1:
+      Name: wallpaper.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: lua.unity3d
+      Dependencies: {}
